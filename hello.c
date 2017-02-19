@@ -1,8 +1,11 @@
 #include<stdio.h>
 
+void Print();
+
 int main()
 {
 	printf("hello world!\n");
+	Print();	
 	return 0;
 }
 
